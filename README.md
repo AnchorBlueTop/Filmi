@@ -1,12 +1,6 @@
 # Filmi
 This is a simple app to see the details for upcoming and now playing movies. 
 
-
-
-https://github.com/AnchorBlueTop/Filmi/assets/98157644/0f034369-cc47-42ee-a0ac-8ebe2c4ec7f8
-
-
-
 # Filmi
 
 Filmi is an iOS app that allows movie enthusiasts to explore upcoming and now-playing movies. With a focus on clean architecture and modern UI/UX design, Filmi provides a seamless and engaging experience for its users.
@@ -33,7 +27,7 @@ Here's a quick look at Filmi in action:
 
 ![Filmi App Preview](https://github.com/AnchorBlueTop/Filmi/assets/98157644/740927b2-f864-42e6-a17d-6a4db36d0531)
 
-[//]: # (Replace 'your-image-file-name.png' with the actual file name of your app preview image.)
+https://github.com/AnchorBlueTop/Filmi/assets/98157644/ac23d407-0d70-4a13-b931-6c31760ab6fc
 
 ## Installation
 
