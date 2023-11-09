@@ -9,7 +9,7 @@ Filmi is an iOS app that allows movie enthusiasts to explore upcoming and now-pl
 
 - **Discover Upcoming Movies**: Stay excited about future releases with a curated list of upcoming movies.
 - **Browse Now Playing**: Check out what's currently hitting the screens.
-- **Movie Details**: Tap on any movie poster to view detailed information including synopsis, genre, ratings, and release date.
+- **Movie Details**: Tap on any movie poster to view detailed information including synopsis, genre, release date, and ratings. 
 - **Clean and Intuitive UI**: Experience a user-friendly interface built with SwiftUI.
 
 ## Clean Architecture
