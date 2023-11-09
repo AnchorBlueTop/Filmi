@@ -1,5 +1,5 @@
 # Filmi
-This is a simple app to see the details for upcoming and now playing movies. 
+This is a simple iOS app to see the details for upcoming and now playing movies. 
 
 # Filmi
 
