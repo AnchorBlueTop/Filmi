@@ -14,5 +14,4 @@ class AppRouter: ObservableObject {
     }
     
     @Published var selectedTab: Tab = .upcomingMovies
-    // Other navigation-related properties can be added here as your app grows.
 }
