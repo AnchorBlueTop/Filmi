@@ -25,7 +25,7 @@ Filmi is built with a clean architecture approach, ensuring that the codebase is
 
 Here's a quick look at Filmi in action:
 
-https://github.com/AnchorBlueTop/Filmi/assets/98157644/ac23d407-0d70-4a13-b931-6c31760ab6fc
+![Filmi App Preview](https://github.com/AnchorBlueTop/Filmi/assets/98157644/fd81d337-709d-4454-b042-326ee8d05492)
 
 https://github.com/AnchorBlueTop/Filmi/assets/98157644/b3112d56-01d9-492a-abf1-a8148b60406f
 
