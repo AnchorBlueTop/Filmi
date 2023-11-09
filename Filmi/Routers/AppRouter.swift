@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Used with MainNavigationView for handling routing.
 class AppRouter: ObservableObject {
     enum Tab: String {
         case upcomingMovies = "upcomingMovies"
