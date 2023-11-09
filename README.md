@@ -2,7 +2,10 @@
 This is a simple app to see the details for upcoming and now playing movies. 
 
 
-https://github.com/AnchorBlueTop/Filmi/assets/98157644/aaf6a2e5-e246-4a72-9633-c65890431018
+
+https://github.com/AnchorBlueTop/Filmi/assets/98157644/0f034369-cc47-42ee-a0ac-8ebe2c4ec7f8
+
+
 
 # Filmi
 
